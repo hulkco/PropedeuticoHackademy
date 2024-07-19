@@ -31,6 +31,7 @@ resultado_operacion = [suma, resta, multiplicacion, division, modulo, potencia, 
     Se crea un bucle for con la funcion zip, para iterar con las
     dos listas anteriores y imprimir en consola el resultado
 """
+
 for operacion, resultado in zip(nombre_operacion, resultado_operacion):
     print(operacion, resultado)
 
