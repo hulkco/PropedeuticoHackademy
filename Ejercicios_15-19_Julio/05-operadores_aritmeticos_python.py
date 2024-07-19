@@ -21,7 +21,6 @@ potencia = numero_02 ** numero_02
 div_entero = numero_01 // numero_02
 
 print("Operadores Aritméticos")
-
 """
     Se crean dos listas, la primera contiene el titulo de la operacion aritmetica y la segunda el resultado
 """
